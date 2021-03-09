@@ -1,0 +1,5 @@
+.list-table li {
+display: inline;
+    text-decoration: none;
+    padding-right: 10px;
+}

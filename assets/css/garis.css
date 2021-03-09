@@ -1,0 +1,47 @@
+#garis{
+	 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 2px;
+    border-color : black;
+
+
+}
+
+#line{
+	 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 1px;
+    border-color : black;
+
+
+}
+
+.form-group .shape{
+	width : 20px;
+	border-radius:0px;
+	height : 20px;
+	background-color:#fff;
+}
+
+input.form-control{
+	background:red;
+	border-radius:0px;
+}
+
+.row edge {
+    margin : 0 px;
+    padding : 0 px;
+
+}
+
+.vertical .hidden_mode_list {
+    list-style: none;
+}

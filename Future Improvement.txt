@@ -1,0 +1,32 @@
+getkuota.php (outer file)
+
+View Mahasiswa:
+1. Pengajuan Judul
+2. Edit Pengajuan Judul
+
+View Tugas:
+1. Riwayat Bimbingan
+2. Menu_bar (Main_template in outer folder)
+3. Add a new file named "validasi_plagiarisme.php"
+
+Controllers:
+Tugas
+Mahasiswa
+
+Models:
+Semhas_model
+
+Database:
+Add a field named 'Ringkasan' in pengajuan_judul table
+Add a data (username='validator', level='7')
+Add a field named 'status_plagiarisme' in pengajuan_judul table
+
+
+Future Improvements
+1. Notif on TU Berkas Pengajuan Judul Refusal (Mahasiswa)
+2. Notif on Kepala Lab Ta Pengajuan Judul Refusal (Mahasiswa)
+3. Display Pembimbing and Pembanding After Kepala Prodi has determined Pembimbing and Pembanding (We can make a notif too)
+4. Pencarian Mahasiswa Bimbingan is supposed to also display students with status ="Belum Sempro"
+5. Dosen's signature in every seminar
+6. Kepala Prodi's signature in every seminar
+7. What will happen if a student is accused of doing plagiarism?

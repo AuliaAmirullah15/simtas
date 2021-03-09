@@ -1,0 +1,41 @@
+
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Array to string conversion</p>
+<p>Filename: helpers/download_helper.php</p>
+<p>Line Number: 146</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /Applications/XAMPP/xamppfiles/htdocs/sisfo/application/controllers/Tugas.php<br />
+			Line: 3160<br />
+			Function: force_download			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /Applications/XAMPP/xamppfiles/htdocs/sisfo/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>Array
