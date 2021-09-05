@@ -1,9 +1,8 @@
 ###################
-Simtas - Sistem Tugas Akhir Mahasiswa S1
+Simtas - Thesis System
 ###################
 
-Sistem ini merupakan platform Fakultas Ilmu Komputer dan Teknologi Informasi untuk 
-meng-handle seluruh proses Tugas AKhir mahasiswa S1 dengan menggunakan framework Codeigniter
+It is a platform which handles the entire process of thesis to graduation using Codeigniter Framework
 
 *******************
 Technologies
