@@ -14,4 +14,4 @@ Technologies
 3. CSS
 4. JS/ Jquery
 5. Mysql
-6. Portal Mahasiswa API
+6. Web Scraping
